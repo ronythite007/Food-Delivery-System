@@ -83,7 +83,3 @@ The system utilizes a MySQL database with the following tables:
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues for bug fixes, feature requests, or improvements.
-
-## License
-
-This project is licensed under the [Your License] License. (Replace [Your License] with the appropriate license, e.g., MIT, Apache 2.0).
